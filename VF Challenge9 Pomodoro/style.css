@@ -1,0 +1,76 @@
+
+body {
+color:black;
+background-image:url(espace.jpg);
+}
+
+
+#cercle
+{
+background-color:black; 
+opacity:0.6;
+height:500px; 
+width:500px; 
+margin:auto; 
+border-radius:500px; 
+border:10px solid grey;  
+margin-top: 20px;
+}
+
+#panneau
+{
+background-color:grey;  
+height:135px;
+width:400px;
+margin-left:auto; 
+margin-right:auto;
+margin-top:182.5px;
+border-radius:5px;
+color:white;
+font-size:100px;
+text-align:center;
+}
+
+
+
+#boutons_fonctionnels
+{
+margin:auto;
+margin-top: 20px;
+margin-bottom: 10px;
+width:400px;
+text-align:center
+}
+
+.button
+{
+background:#F94D58;
+opacity:0.5;
+padding:2%;
+font-size:large;
+border-radius:10px;
+font-family:Verdana;
+width:25%
+}
+
+#boutons_temps
+{
+margin:auto;
+width:500px;
+text-align:center
+}
+
+
+.button_time
+{
+background:#20dcd7;
+opacity:0.5;
+padding:2%;
+font-size:large;
+border-radius:10px;
+font-family:Verdana;
+width:25%;
+height: 40px;
+}
+
+
